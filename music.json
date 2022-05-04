@@ -1,0 +1,3890 @@
+[
+  {
+    "Category": "Tape",
+    "Format": "8 - Track",
+    "Year": 1973,
+    "year-date": "1973-01-01",
+    "Units": 91,
+    "Revenues_in_millions": 489,
+    "Revenues_in_millions(Adjusted for inflation)": 2815.681824
+  },
+  {
+    "Category": "Tape",
+    "Format": "8 - Track",
+    "Year": 1974,
+    "year-date": "1974-01-01",
+    "Units": 96.7,
+    "Revenues_in_millions": 549.2,
+    "Revenues_in_millions(Adjusted for inflation)": 2848.008609
+  },
+  {
+    "Category": "Tape",
+    "Format": "8 - Track",
+    "Year": 1975,
+    "year-date": "1975-01-01",
+    "Units": 94.6,
+    "Revenues_in_millions": 583,
+    "Revenues_in_millions(Adjusted for inflation)": 2770.409498
+  },
+  {
+    "Category": "Tape",
+    "Format": "8 - Track",
+    "Year": 1976,
+    "year-date": "1976-01-01",
+    "Units": 106.1,
+    "Revenues_in_millions": 678.2,
+    "Revenues_in_millions(Adjusted for inflation)": 3047.215772
+  },
+  {
+    "Category": "Tape",
+    "Format": "8 - Track",
+    "Year": 1977,
+    "year-date": "1977-01-01",
+    "Units": 127.3,
+    "Revenues_in_millions": 811,
+    "Revenues_in_millions(Adjusted for inflation)": 3421.416287
+  },
+  {
+    "Category": "Tape",
+    "Format": "8 - Track",
+    "Year": 1978,
+    "year-date": "1978-01-01",
+    "Units": 133.6,
+    "Revenues_in_millions": 948,
+    "Revenues_in_millions(Adjusted for inflation)": 3717.221411
+  },
+  {
+    "Category": "Tape",
+    "Format": "8 - Track",
+    "Year": 1979,
+    "year-date": "1979-01-01",
+    "Units": 102.3,
+    "Revenues_in_millions": 684.3,
+    "Revenues_in_millions(Adjusted for inflation)": 2409.72569
+  },
+  {
+    "Category": "Tape",
+    "Format": "8 - Track",
+    "Year": 1980,
+    "year-date": "1980-01-01",
+    "Units": 85,
+    "Revenues_in_millions": 527,
+    "Revenues_in_millions(Adjusted for inflation)": 1635.087852
+  },
+  {
+    "Category": "Tape",
+    "Format": "8 - Track",
+    "Year": 1981,
+    "year-date": "1981-01-01",
+    "Units": 50,
+    "Revenues_in_millions": 313,
+    "Revenues_in_millions(Adjusted for inflation)": 880.3150825
+  },
+  {
+    "Category": "Tape",
+    "Format": "8 - Track",
+    "Year": 1982,
+    "year-date": "1982-01-01",
+    "Units": 13.7,
+    "Revenues_in_millions": 36,
+    "Revenues_in_millions(Adjusted for inflation)": 95.37463212
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1973,
+    "year-date": "1973-01-01",
+    "Units": 15,
+    "Revenues_in_millions": 76,
+    "Revenues_in_millions(Adjusted for inflation)": 437.6110811
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1974,
+    "year-date": "1974-01-01",
+    "Units": 15.3,
+    "Revenues_in_millions": 87.2,
+    "Revenues_in_millions(Adjusted for inflation)": 452.1965598
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1975,
+    "year-date": "1975-01-01",
+    "Units": 16.2,
+    "Revenues_in_millions": 98.8,
+    "Revenues_in_millions(Adjusted for inflation)": 469.4964981
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1976,
+    "year-date": "1976-01-01",
+    "Units": 21.8,
+    "Revenues_in_millions": 145.7,
+    "Revenues_in_millions(Adjusted for inflation)": 654.6436714
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1977,
+    "year-date": "1977-01-01",
+    "Units": 36.9,
+    "Revenues_in_millions": 249.6,
+    "Revenues_in_millions(Adjusted for inflation)": 1053.003089
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1978,
+    "year-date": "1978-01-01",
+    "Units": 61.3,
+    "Revenues_in_millions": 449.8,
+    "Revenues_in_millions(Adjusted for inflation)": 1763.71961
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1979,
+    "year-date": "1979-01-01",
+    "Units": 78.5,
+    "Revenues_in_millions": 580.6,
+    "Revenues_in_millions(Adjusted for inflation)": 2044.551711
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1980,
+    "year-date": "1980-01-01",
+    "Units": 99,
+    "Revenues_in_millions": 705,
+    "Revenues_in_millions(Adjusted for inflation)": 2187.356614
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1981,
+    "year-date": "1981-01-01",
+    "Units": 124,
+    "Revenues_in_millions": 1062.8,
+    "Revenues_in_millions(Adjusted for inflation)": 2989.133769
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1982,
+    "year-date": "1982-01-01",
+    "Units": 183.2,
+    "Revenues_in_millions": 1384.5,
+    "Revenues_in_millions(Adjusted for inflation)": 3667.949394
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1983,
+    "year-date": "1983-01-01",
+    "Units": 236.8,
+    "Revenues_in_millions": 1810.9,
+    "Revenues_in_millions(Adjusted for inflation)": 4648.285756
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1984,
+    "year-date": "1984-01-01",
+    "Units": 332,
+    "Revenues_in_millions": 2383.9,
+    "Revenues_in_millions(Adjusted for inflation)": 5865.839483
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1985,
+    "year-date": "1985-01-01",
+    "Units": 339.1,
+    "Revenues_in_millions": 2411.5,
+    "Revenues_in_millions(Adjusted for inflation)": 5729.710553
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1986,
+    "year-date": "1986-01-01",
+    "Units": 344.5,
+    "Revenues_in_millions": 2499.5,
+    "Revenues_in_millions(Adjusted for inflation)": 5830.425835
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1987,
+    "year-date": "1987-01-01",
+    "Units": 410,
+    "Revenues_in_millions": 2959.7,
+    "Revenues_in_millions(Adjusted for inflation)": 6660.810061
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1988,
+    "year-date": "1988-01-01",
+    "Units": 450.1,
+    "Revenues_in_millions": 3385.1,
+    "Revenues_in_millions(Adjusted for inflation)": 7315.507276
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1989,
+    "year-date": "1989-01-01",
+    "Units": 446.2,
+    "Revenues_in_millions": 3345.8,
+    "Revenues_in_millions(Adjusted for inflation)": 6898.20315
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1990,
+    "year-date": "1990-01-01",
+    "Units": 442.2,
+    "Revenues_in_millions": 3472.4,
+    "Revenues_in_millions(Adjusted for inflation)": 6792.221628
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1991,
+    "year-date": "1991-01-01",
+    "Units": 360.1,
+    "Revenues_in_millions": 3019.6,
+    "Revenues_in_millions(Adjusted for inflation)": 5668.002035
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1992,
+    "year-date": "1992-01-01",
+    "Units": 366.4,
+    "Revenues_in_millions": 3116.3,
+    "Revenues_in_millions(Adjusted for inflation)": 5678.573835
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1993,
+    "year-date": "1993-01-01",
+    "Units": 339.5,
+    "Revenues_in_millions": 2915.8,
+    "Revenues_in_millions(Adjusted for inflation)": 5158.786717
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1994,
+    "year-date": "1994-01-01",
+    "Units": 345.4,
+    "Revenues_in_millions": 2976.4,
+    "Revenues_in_millions(Adjusted for inflation)": 5134.531004
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1995,
+    "year-date": "1995-01-01",
+    "Units": 272.6,
+    "Revenues_in_millions": 2303.6,
+    "Revenues_in_millions(Adjusted for inflation)": 3864.379693
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1996,
+    "year-date": "1996-01-01",
+    "Units": 225.3,
+    "Revenues_in_millions": 1905.3,
+    "Revenues_in_millions(Adjusted for inflation)": 3104.546094
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1997,
+    "year-date": "1997-01-01",
+    "Units": 172.6,
+    "Revenues_in_millions": 1522.7,
+    "Revenues_in_millions(Adjusted for inflation)": 2425.476099
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1998,
+    "year-date": "1998-01-01",
+    "Units": 158.5,
+    "Revenues_in_millions": 1419.9,
+    "Revenues_in_millions(Adjusted for inflation)": 2227.039106
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 1999,
+    "year-date": "1999-01-01",
+    "Units": 123.6,
+    "Revenues_in_millions": 1061.6,
+    "Revenues_in_millions(Adjusted for inflation)": 1629.084461
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 2000,
+    "year-date": "2000-01-01",
+    "Units": 76,
+    "Revenues_in_millions": 626,
+    "Revenues_in_millions(Adjusted for inflation)": 929.3918815
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 2001,
+    "year-date": "2001-01-01",
+    "Units": 45,
+    "Revenues_in_millions": 363.4,
+    "Revenues_in_millions(Adjusted for inflation)": 524.5948831
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 2002,
+    "year-date": "2002-01-01",
+    "Units": 31.1,
+    "Revenues_in_millions": 209.8,
+    "Revenues_in_millions(Adjusted for inflation)": 298.1480745
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 2003,
+    "year-date": "2003-01-01",
+    "Units": 17.2,
+    "Revenues_in_millions": 108.1,
+    "Revenues_in_millions(Adjusted for inflation)": 150.1984875
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 2004,
+    "year-date": "2004-01-01",
+    "Units": 5.2,
+    "Revenues_in_millions": 23.7,
+    "Revenues_in_millions(Adjusted for inflation)": 32.07554738
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 2005,
+    "year-date": "2005-01-01",
+    "Units": 2.5,
+    "Revenues_in_millions": 13.1,
+    "Revenues_in_millions(Adjusted for inflation)": 17.14852381
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 2006,
+    "year-date": "2006-01-01",
+    "Units": 0.7,
+    "Revenues_in_millions": 3.7,
+    "Revenues_in_millions(Adjusted for inflation)": 4.69211756
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 2007,
+    "year-date": "2007-01-01",
+    "Units": 0.4,
+    "Revenues_in_millions": 3,
+    "Revenues_in_millions(Adjusted for inflation)": 3.699811867
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette",
+    "Year": 2008,
+    "year-date": "2008-01-01",
+    "Units": 0.1,
+    "Revenues_in_millions": 0.9,
+    "Revenues_in_millions(Adjusted for inflation)": 1.068685991
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette Single",
+    "Year": 1987,
+    "year-date": "1987-01-01",
+    "Units": 5.1,
+    "Revenues_in_millions": 14.3,
+    "Revenues_in_millions(Adjusted for inflation)": 32.18217518
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette Single",
+    "Year": 1988,
+    "year-date": "1988-01-01",
+    "Units": 22.5,
+    "Revenues_in_millions": 57.3,
+    "Revenues_in_millions(Adjusted for inflation)": 123.8304827
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette Single",
+    "Year": 1989,
+    "year-date": "1989-01-01",
+    "Units": 76.2,
+    "Revenues_in_millions": 194.6,
+    "Revenues_in_millions(Adjusted for inflation)": 401.21655
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette Single",
+    "Year": 1990,
+    "year-date": "1990-01-01",
+    "Units": 87.4,
+    "Revenues_in_millions": 257.9,
+    "Revenues_in_millions(Adjusted for inflation)": 504.4677911
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette Single",
+    "Year": 1991,
+    "year-date": "1991-01-01",
+    "Units": 69,
+    "Revenues_in_millions": 230.4,
+    "Revenues_in_millions(Adjusted for inflation)": 432.4770396
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette Single",
+    "Year": 1992,
+    "year-date": "1992-01-01",
+    "Units": 84.6,
+    "Revenues_in_millions": 298.8,
+    "Revenues_in_millions(Adjusted for inflation)": 544.4783436
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette Single",
+    "Year": 1993,
+    "year-date": "1993-01-01",
+    "Units": 85.6,
+    "Revenues_in_millions": 298.5,
+    "Revenues_in_millions(Adjusted for inflation)": 528.1218997
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette Single",
+    "Year": 1994,
+    "year-date": "1994-01-01",
+    "Units": 81.1,
+    "Revenues_in_millions": 274.9,
+    "Revenues_in_millions(Adjusted for inflation)": 474.2247591
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette Single",
+    "Year": 1995,
+    "year-date": "1995-01-01",
+    "Units": 70.7,
+    "Revenues_in_millions": 236.3,
+    "Revenues_in_millions(Adjusted for inflation)": 396.4025532
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette Single",
+    "Year": 1996,
+    "year-date": "1996-01-01",
+    "Units": 59.9,
+    "Revenues_in_millions": 189.3,
+    "Revenues_in_millions(Adjusted for inflation)": 308.4504149
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette Single",
+    "Year": 1997,
+    "year-date": "1997-01-01",
+    "Units": 42.2,
+    "Revenues_in_millions": 133.5,
+    "Revenues_in_millions(Adjusted for inflation)": 212.6492804
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette Single",
+    "Year": 1998,
+    "year-date": "1998-01-01",
+    "Units": 26.4,
+    "Revenues_in_millions": 94.4,
+    "Revenues_in_millions(Adjusted for inflation)": 148.0614773
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette Single",
+    "Year": 1999,
+    "year-date": "1999-01-01",
+    "Units": 14.2,
+    "Revenues_in_millions": 48,
+    "Revenues_in_millions(Adjusted for inflation)": 73.65867947
+  },
+  {
+    "Category": "Tape",
+    "Format": "Cassette Single",
+    "Year": 2000,
+    "year-date": "2000-01-01",
+    "Units": 1.3,
+    "Revenues_in_millions": 4.6,
+    "Revenues_in_millions(Adjusted for inflation)": 6.829397213
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 1983,
+    "year-date": "1983-01-01",
+    "Units": 0.8,
+    "Revenues_in_millions": 17.2,
+    "Revenues_in_millions(Adjusted for inflation)": 44.14960241
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 1984,
+    "year-date": "1984-01-01",
+    "Units": 5.8,
+    "Revenues_in_millions": 103.3,
+    "Revenues_in_millions(Adjusted for inflation)": 254.1806362
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 1985,
+    "year-date": "1985-01-01",
+    "Units": 22.6,
+    "Revenues_in_millions": 389.5,
+    "Revenues_in_millions(Adjusted for inflation)": 925.4498281
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 1986,
+    "year-date": "1986-01-01",
+    "Units": 53,
+    "Revenues_in_millions": 930.1,
+    "Revenues_in_millions(Adjusted for inflation)": 2169.585545
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 1987,
+    "year-date": "1987-01-01",
+    "Units": 102.1,
+    "Revenues_in_millions": 1593.6,
+    "Revenues_in_millions(Adjusted for inflation)": 3586.399606
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 1988,
+    "year-date": "1988-01-01",
+    "Units": 149.7,
+    "Revenues_in_millions": 2089.9,
+    "Revenues_in_millions(Adjusted for inflation)": 4516.462927
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 1989,
+    "year-date": "1989-01-01",
+    "Units": 207.2,
+    "Revenues_in_millions": 2587.7,
+    "Revenues_in_millions(Adjusted for inflation)": 5335.190475
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 1990,
+    "year-date": "1990-01-01",
+    "Units": 286.5,
+    "Revenues_in_millions": 3451.6,
+    "Revenues_in_millions(Adjusted for inflation)": 6751.535587
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 1991,
+    "year-date": "1991-01-01",
+    "Units": 333.3,
+    "Revenues_in_millions": 4337.7,
+    "Revenues_in_millions(Adjusted for inflation)": 8142.168641
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 1992,
+    "year-date": "1992-01-01",
+    "Units": 407.5,
+    "Revenues_in_millions": 5326.5,
+    "Revenues_in_millions(Adjusted for inflation)": 9706.037138
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 1993,
+    "year-date": "1993-01-01",
+    "Units": 495.4,
+    "Revenues_in_millions": 6511.4,
+    "Revenues_in_millions(Adjusted for inflation)": 11520.31135
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 1994,
+    "year-date": "1994-01-01",
+    "Units": 662.1,
+    "Revenues_in_millions": 8464.5,
+    "Revenues_in_millions(Adjusted for inflation)": 14601.94788
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 1995,
+    "year-date": "1995-01-01",
+    "Units": 722.9,
+    "Revenues_in_millions": 9377.4,
+    "Revenues_in_millions(Adjusted for inflation)": 15730.95769
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 1996,
+    "year-date": "1996-01-01",
+    "Units": 778.9,
+    "Revenues_in_millions": 9934.7,
+    "Revenues_in_millions(Adjusted for inflation)": 16187.86232
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 1997,
+    "year-date": "1997-01-01",
+    "Units": 753.1,
+    "Revenues_in_millions": 9915.1,
+    "Revenues_in_millions(Adjusted for inflation)": 15793.54966
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 1998,
+    "year-date": "1998-01-01",
+    "Units": 847,
+    "Revenues_in_millions": 11416,
+    "Revenues_in_millions(Adjusted for inflation)": 17905.40069
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 1999,
+    "year-date": "1999-01-01",
+    "Units": 938.9,
+    "Revenues_in_millions": 12816.3,
+    "Revenues_in_millions(Adjusted for inflation)": 19667.32779
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2000,
+    "year-date": "2000-01-01",
+    "Units": 942.5,
+    "Revenues_in_millions": 13214.5,
+    "Revenues_in_millions(Adjusted for inflation)": 19618.92814
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2001,
+    "year-date": "2001-01-01",
+    "Units": 881.9,
+    "Revenues_in_millions": 12909.4,
+    "Revenues_in_millions(Adjusted for inflation)": 18635.67745
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2002,
+    "year-date": "2002-01-01",
+    "Units": 803.3,
+    "Revenues_in_millions": 12044.1,
+    "Revenues_in_millions(Adjusted for inflation)": 17115.94482
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2003,
+    "year-date": "2003-01-01",
+    "Units": 746,
+    "Revenues_in_millions": 11232.9,
+    "Revenues_in_millions(Adjusted for inflation)": 15607.44302
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2004,
+    "year-date": "2004-01-01",
+    "Units": 767,
+    "Revenues_in_millions": 11446.5,
+    "Revenues_in_millions(Adjusted for inflation)": 15491.67735
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2005,
+    "year-date": "2005-01-01",
+    "Units": 705.4,
+    "Revenues_in_millions": 10520.2,
+    "Revenues_in_millions(Adjusted for inflation)": 13771.44276
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2006,
+    "year-date": "2006-01-01",
+    "Units": 619.7,
+    "Revenues_in_millions": 9372.6,
+    "Revenues_in_millions(Adjusted for inflation)": 11885.76785
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2007,
+    "year-date": "2007-01-01",
+    "Units": 499.7,
+    "Revenues_in_millions": 7452.3,
+    "Revenues_in_millions(Adjusted for inflation)": 9190.702658
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2008,
+    "year-date": "2008-01-01",
+    "Units": 368.4,
+    "Revenues_in_millions": 5471.3,
+    "Revenues_in_millions(Adjusted for inflation)": 6496.779627
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2009,
+    "year-date": "2009-01-01",
+    "Units": 296.6,
+    "Revenues_in_millions": 4318.8,
+    "Revenues_in_millions(Adjusted for inflation)": 5146.57822
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2010,
+    "year-date": "2010-01-01",
+    "Units": 253,
+    "Revenues_in_millions": 3389.4,
+    "Revenues_in_millions(Adjusted for inflation)": 3973.859173
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2011,
+    "year-date": "2011-01-01",
+    "Units": 240.8,
+    "Revenues_in_millions": 3100.7,
+    "Revenues_in_millions(Adjusted for inflation)": 3524.136143
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2012,
+    "year-date": "2012-01-01",
+    "Units": 198.1643872,
+    "Revenues_in_millions": 2485.614699,
+    "Revenues_in_millions(Adjusted for inflation)": 2767.776149
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2013,
+    "year-date": "2013-01-01",
+    "Units": 173.7933029,
+    "Revenues_in_millions": 2140.917718,
+    "Revenues_in_millions(Adjusted for inflation)": 2349.534897
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2014,
+    "year-date": "2014-01-01",
+    "Units": 138.7023634,
+    "Revenues_in_millions": 1776.249324,
+    "Revenues_in_millions(Adjusted for inflation)": 1918.215115
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2015,
+    "year-date": "2015-01-01",
+    "Units": 117.1440518,
+    "Revenues_in_millions": 1444.993194,
+    "Revenues_in_millions(Adjusted for inflation)": 1558.633452
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": 97.5770712,
+    "Revenues_in_millions": 1130.764651,
+    "Revenues_in_millions(Adjusted for inflation)": 1204.497778
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": 87.68249997,
+    "Revenues_in_millions": 1057.32309,
+    "Revenues_in_millions(Adjusted for inflation)": 1102.774352
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": 51.95427564,
+    "Revenues_in_millions": 698.3866372,
+    "Revenues_in_millions(Adjusted for inflation)": 711.0412395
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": 46.50649558,
+    "Revenues_in_millions": 614.5097799,
+    "Revenues_in_millions(Adjusted for inflation)": 614.5097799
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 1988,
+    "year-date": "1988-01-01",
+    "Units": 1.6,
+    "Revenues_in_millions": 9.8,
+    "Revenues_in_millions(Adjusted for inflation)": 21.17868639
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 1990,
+    "year-date": "1990-01-01",
+    "Units": 1.1,
+    "Revenues_in_millions": 6,
+    "Revenues_in_millions(Adjusted for inflation)": 11.73635807
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 1991,
+    "year-date": "1991-01-01",
+    "Units": 5.7,
+    "Revenues_in_millions": 35.1,
+    "Revenues_in_millions(Adjusted for inflation)": 65.88517401
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 1992,
+    "year-date": "1992-01-01",
+    "Units": 7.3,
+    "Revenues_in_millions": 45.1,
+    "Revenues_in_millions(Adjusted for inflation)": 82.1819722
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 1993,
+    "year-date": "1993-01-01",
+    "Units": 7.8,
+    "Revenues_in_millions": 45.8,
+    "Revenues_in_millions(Adjusted for inflation)": 81.03176886
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 1994,
+    "year-date": "1994-01-01",
+    "Units": 9.3,
+    "Revenues_in_millions": 56.1,
+    "Revenues_in_millions(Adjusted for inflation)": 96.77704251
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 1995,
+    "year-date": "1995-01-01",
+    "Units": 21.5,
+    "Revenues_in_millions": 110.9,
+    "Revenues_in_millions(Adjusted for inflation)": 186.0391161
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 1996,
+    "year-date": "1996-01-01",
+    "Units": 43.2,
+    "Revenues_in_millions": 184.1,
+    "Revenues_in_millions(Adjusted for inflation)": 299.9773977
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 1997,
+    "year-date": "1997-01-01",
+    "Units": 66.7,
+    "Revenues_in_millions": 272.7,
+    "Revenues_in_millions(Adjusted for inflation)": 434.3779682
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 1998,
+    "year-date": "1998-01-01",
+    "Units": 56,
+    "Revenues_in_millions": 213.2,
+    "Revenues_in_millions(Adjusted for inflation)": 334.3930822
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 1999,
+    "year-date": "1999-01-01",
+    "Units": 55.9,
+    "Revenues_in_millions": 222.4,
+    "Revenues_in_millions(Adjusted for inflation)": 341.2852149
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2000,
+    "year-date": "2000-01-01",
+    "Units": 34.2,
+    "Revenues_in_millions": 142.7,
+    "Revenues_in_millions(Adjusted for inflation)": 211.8597787
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2001,
+    "year-date": "2001-01-01",
+    "Units": 17.3,
+    "Revenues_in_millions": 79.4,
+    "Revenues_in_millions(Adjusted for inflation)": 114.6197956
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2002,
+    "year-date": "2002-01-01",
+    "Units": 4.5,
+    "Revenues_in_millions": 19.6,
+    "Revenues_in_millions(Adjusted for inflation)": 27.85368093
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2003,
+    "year-date": "2003-01-01",
+    "Units": 8.3,
+    "Revenues_in_millions": 36,
+    "Revenues_in_millions(Adjusted for inflation)": 50.01984783
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2004,
+    "year-date": "2004-01-01",
+    "Units": 3.1,
+    "Revenues_in_millions": 15,
+    "Revenues_in_millions(Adjusted for inflation)": 20.30097935
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2005,
+    "year-date": "2005-01-01",
+    "Units": 2.8,
+    "Revenues_in_millions": 10.9,
+    "Revenues_in_millions(Adjusted for inflation)": 14.26861905
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2006,
+    "year-date": "2006-01-01",
+    "Units": 1.7,
+    "Revenues_in_millions": 7.7,
+    "Revenues_in_millions(Adjusted for inflation)": 9.764677083
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2007,
+    "year-date": "2007-01-01",
+    "Units": 2.6,
+    "Revenues_in_millions": 12.2,
+    "Revenues_in_millions(Adjusted for inflation)": 15.04590159
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2008,
+    "year-date": "2008-01-01",
+    "Units": 0.7,
+    "Revenues_in_millions": 3.5,
+    "Revenues_in_millions(Adjusted for inflation)": 4.156001078
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2009,
+    "year-date": "2009-01-01",
+    "Units": 0.9,
+    "Revenues_in_millions": 3.1,
+    "Revenues_in_millions(Adjusted for inflation)": 3.694172567
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2010,
+    "year-date": "2010-01-01",
+    "Units": 1,
+    "Revenues_in_millions": 2.9,
+    "Revenues_in_millions(Adjusted for inflation)": 3.400068331
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2011,
+    "year-date": "2011-01-01",
+    "Units": 1.3,
+    "Revenues_in_millions": 3.5,
+    "Revenues_in_millions(Adjusted for inflation)": 3.977965137
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2012,
+    "year-date": "2012-01-01",
+    "Units": 1.072870407,
+    "Revenues_in_millions": 3.225092945,
+    "Revenues_in_millions(Adjusted for inflation)": 3.59119832
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2013,
+    "year-date": "2013-01-01",
+    "Units": 0.628895398,
+    "Revenues_in_millions": 2.445737226,
+    "Revenues_in_millions(Adjusted for inflation)": 2.684056894
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2014,
+    "year-date": "2014-01-01",
+    "Units": 0.928725116,
+    "Revenues_in_millions": 3.616015547,
+    "Revenues_in_millions(Adjusted for inflation)": 3.905023683
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2015,
+    "year-date": "2015-01-01",
+    "Units": 0.386721563,
+    "Revenues_in_millions": 1.19694661,
+    "Revenues_in_millions(Adjusted for inflation)": 1.291079457
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": 0.121745255,
+    "Revenues_in_millions": 0.263199082,
+    "Revenues_in_millions(Adjusted for inflation)": 0.280361354
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": 0.13261663,
+    "Revenues_in_millions": 1.478694184,
+    "Revenues_in_millions(Adjusted for inflation)": 1.542258972
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": 0.020854078,
+    "Revenues_in_millions": 0.15516984,
+    "Revenues_in_millions(Adjusted for inflation)": 0.157981482
+  },
+  {
+    "Category": "Disc",
+    "Format": "CD Single",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": 0.026257455,
+    "Revenues_in_millions": 0.181678878,
+    "Revenues_in_millions(Adjusted for inflation)": 0.181678878
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Album",
+    "Year": 2004,
+    "year-date": "2004-01-01",
+    "Units": 4.6,
+    "Revenues_in_millions": 45.5,
+    "Revenues_in_millions(Adjusted for inflation)": 61.57963737
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Album",
+    "Year": 2005,
+    "year-date": "2005-01-01",
+    "Units": 13.6,
+    "Revenues_in_millions": 135.7,
+    "Revenues_in_millions(Adjusted for inflation)": 177.6377619
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Album",
+    "Year": 2006,
+    "year-date": "2006-01-01",
+    "Units": 27.6,
+    "Revenues_in_millions": 275.9,
+    "Revenues_in_millions(Adjusted for inflation)": 349.8797932
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Album",
+    "Year": 2007,
+    "year-date": "2007-01-01",
+    "Units": 49.8,
+    "Revenues_in_millions": 497.4,
+    "Revenues_in_millions(Adjusted for inflation)": 613.4288075
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Album",
+    "Year": 2008,
+    "year-date": "2008-01-01",
+    "Units": 63.6,
+    "Revenues_in_millions": 635.3,
+    "Revenues_in_millions(Adjusted for inflation)": 754.373567
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Album",
+    "Year": 2009,
+    "year-date": "2009-01-01",
+    "Units": 74.5,
+    "Revenues_in_millions": 744.3,
+    "Revenues_in_millions(Adjusted for inflation)": 886.9589166
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Album",
+    "Year": 2010,
+    "year-date": "2010-01-01",
+    "Units": 85.8,
+    "Revenues_in_millions": 872.4,
+    "Revenues_in_millions(Adjusted for inflation)": 1022.834349
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Album",
+    "Year": 2011,
+    "year-date": "2011-01-01",
+    "Units": 103.9,
+    "Revenues_in_millions": 1070.8,
+    "Revenues_in_millions(Adjusted for inflation)": 1217.03002
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Album",
+    "Year": 2012,
+    "year-date": "2012-01-01",
+    "Units": 116.7336318,
+    "Revenues_in_millions": 1204.822243,
+    "Revenues_in_millions(Adjusted for inflation)": 1341.590983
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Album",
+    "Year": 2013,
+    "year-date": "2013-01-01",
+    "Units": 117.979213,
+    "Revenues_in_millions": 1232.139716,
+    "Revenues_in_millions(Adjusted for inflation)": 1352.202953
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Album",
+    "Year": 2014,
+    "year-date": "2014-01-01",
+    "Units": 114.2304708,
+    "Revenues_in_millions": 1117.900009,
+    "Revenues_in_millions(Adjusted for inflation)": 1207.247578
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Album",
+    "Year": 2015,
+    "year-date": "2015-01-01",
+    "Units": 106.7838841,
+    "Revenues_in_millions": 1064.433607,
+    "Revenues_in_millions(Adjusted for inflation)": 1148.145081
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Album",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": 85.12334989,
+    "Revenues_in_millions": 868.5942684,
+    "Revenues_in_millions(Adjusted for inflation)": 925.232201
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Album",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": 66.38610376,
+    "Revenues_in_millions": 668.5007059,
+    "Revenues_in_millions(Adjusted for inflation)": 697.2376182
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Album",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": 49.73492454,
+    "Revenues_in_millions": 499.6508324,
+    "Revenues_in_millions(Adjusted for inflation)": 508.7043884
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Album",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": 40.20271234,
+    "Revenues_in_millions": 394.5330062,
+    "Revenues_in_millions(Adjusted for inflation)": 394.5330062
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Music Video",
+    "Year": 2005,
+    "year-date": "2005-01-01",
+    "Units": 1.9,
+    "Revenues_in_millions": 3.7,
+    "Revenues_in_millions(Adjusted for inflation)": 4.84347619
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Music Video",
+    "Year": 2006,
+    "year-date": "2006-01-01",
+    "Units": 9.9,
+    "Revenues_in_millions": 19.7,
+    "Revenues_in_millions(Adjusted for inflation)": 24.98235566
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Music Video",
+    "Year": 2007,
+    "year-date": "2007-01-01",
+    "Units": 14.2,
+    "Revenues_in_millions": 28.2,
+    "Revenues_in_millions(Adjusted for inflation)": 34.77823155
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Music Video",
+    "Year": 2008,
+    "year-date": "2008-01-01",
+    "Units": 20.8,
+    "Revenues_in_millions": 41.3,
+    "Revenues_in_millions(Adjusted for inflation)": 49.04081272
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Music Video",
+    "Year": 2009,
+    "year-date": "2009-01-01",
+    "Units": 20.5,
+    "Revenues_in_millions": 40.9,
+    "Revenues_in_millions(Adjusted for inflation)": 48.73924451
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Music Video",
+    "Year": 2010,
+    "year-date": "2010-01-01",
+    "Units": 18.4,
+    "Revenues_in_millions": 36.6,
+    "Revenues_in_millions(Adjusted for inflation)": 42.91120721
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Music Video",
+    "Year": 2011,
+    "year-date": "2011-01-01",
+    "Units": 16.3,
+    "Revenues_in_millions": 32.4,
+    "Revenues_in_millions(Adjusted for inflation)": 36.82459156
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Music Video",
+    "Year": 2012,
+    "year-date": "2012-01-01",
+    "Units": 10.473489,
+    "Revenues_in_millions": 20.842242,
+    "Revenues_in_millions(Adjusted for inflation)": 23.20820694
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Music Video",
+    "Year": 2013,
+    "year-date": "2013-01-01",
+    "Units": 8.412464,
+    "Revenues_in_millions": 16.740803,
+    "Revenues_in_millions(Adjusted for inflation)": 18.37207499
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Music Video",
+    "Year": 2014,
+    "year-date": "2014-01-01",
+    "Units": 6.82264392,
+    "Revenues_in_millions": 13.577058,
+    "Revenues_in_millions(Adjusted for inflation)": 14.6621972
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Music Video",
+    "Year": 2015,
+    "year-date": "2015-01-01",
+    "Units": 3.223325002,
+    "Revenues_in_millions": 6.414419,
+    "Revenues_in_millions(Adjusted for inflation)": 6.918875516
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Music Video",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": 2.145427196,
+    "Revenues_in_millions": 4.26940012,
+    "Revenues_in_millions(Adjusted for inflation)": 4.547792467
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Music Video",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": 1.399889693,
+    "Revenues_in_millions": 2.785780489,
+    "Revenues_in_millions(Adjusted for inflation)": 2.905533136
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Music Video",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": 1.115985226,
+    "Revenues_in_millions": 2.2208106,
+    "Revenues_in_millions(Adjusted for inflation)": 2.261051168
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Music Video",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": 0.93412583,
+    "Revenues_in_millions": 1.858910402,
+    "Revenues_in_millions(Adjusted for inflation)": 1.858910402
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Single",
+    "Year": 2004,
+    "year-date": "2004-01-01",
+    "Units": 139.4,
+    "Revenues_in_millions": 138,
+    "Revenues_in_millions(Adjusted for inflation)": 186.7690101
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Single",
+    "Year": 2005,
+    "year-date": "2005-01-01",
+    "Units": 366.9,
+    "Revenues_in_millions": 363.3,
+    "Revenues_in_millions(Adjusted for inflation)": 475.577
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Single",
+    "Year": 2006,
+    "year-date": "2006-01-01",
+    "Units": 586.4,
+    "Revenues_in_millions": 580.6,
+    "Revenues_in_millions(Adjusted for inflation)": 736.2820149
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Single",
+    "Year": 2007,
+    "year-date": "2007-01-01",
+    "Units": 819.4,
+    "Revenues_in_millions": 811,
+    "Revenues_in_millions(Adjusted for inflation)": 1000.182475
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Single",
+    "Year": 2008,
+    "year-date": "2008-01-01",
+    "Units": 1042.7,
+    "Revenues_in_millions": 1032.2,
+    "Revenues_in_millions(Adjusted for inflation)": 1225.664089
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Single",
+    "Year": 2009,
+    "year-date": "2009-01-01",
+    "Units": 1124.4,
+    "Revenues_in_millions": 1172,
+    "Revenues_in_millions(Adjusted for inflation)": 1396.635564
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Single",
+    "Year": 2010,
+    "year-date": "2010-01-01",
+    "Units": 1177.4,
+    "Revenues_in_millions": 1336.4,
+    "Revenues_in_millions(Adjusted for inflation)": 1566.845282
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Single",
+    "Year": 2011,
+    "year-date": "2011-01-01",
+    "Units": 1332.3,
+    "Revenues_in_millions": 1522.4,
+    "Revenues_in_millions(Adjusted for inflation)": 1730.301179
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Single",
+    "Year": 2012,
+    "year-date": "2012-01-01",
+    "Units": 1402.739373,
+    "Revenues_in_millions": 1644.570645,
+    "Revenues_in_millions(Adjusted for inflation)": 1831.258646
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Single",
+    "Year": 2013,
+    "year-date": "2013-01-01",
+    "Units": 1332.795366,
+    "Revenues_in_millions": 1573.420534,
+    "Revenues_in_millions(Adjusted for inflation)": 1726.739156
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Single",
+    "Year": 2014,
+    "year-date": "2014-01-01",
+    "Units": 1154.379327,
+    "Revenues_in_millions": 1355.331251,
+    "Revenues_in_millions(Adjusted for inflation)": 1463.655387
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Single",
+    "Year": 2015,
+    "year-date": "2015-01-01",
+    "Units": 986.2550359,
+    "Revenues_in_millions": 1185.237595,
+    "Revenues_in_millions(Adjusted for inflation)": 1278.449595
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Single",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": 743.0034138,
+    "Revenues_in_millions": 900.1814811,
+    "Revenues_in_millions(Adjusted for inflation)": 958.8791031
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Single",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": 553.5161518,
+    "Revenues_in_millions": 678.5248883,
+    "Revenues_in_millions(Adjusted for inflation)": 707.6927112
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Single",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": 399.7738523,
+    "Revenues_in_millions": 490.4304887,
+    "Revenues_in_millions(Adjusted for inflation)": 499.3169742
+  },
+  {
+    "Category": "Download",
+    "Format": "Download Single",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": 335.3391935,
+    "Revenues_in_millions": 414.804251,
+    "Revenues_in_millions(Adjusted for inflation)": 414.804251
+  },
+  {
+    "Category": "Other",
+    "Format": "DVD Audio",
+    "Year": 2001,
+    "year-date": "2001-01-01",
+    "Units": 0.263,
+    "Revenues_in_millions": 6,
+    "Revenues_in_millions(Adjusted for inflation)": 8.661445511
+  },
+  {
+    "Category": "Other",
+    "Format": "DVD Audio",
+    "Year": 2002,
+    "year-date": "2002-01-01",
+    "Units": 0.43,
+    "Revenues_in_millions": 8.5,
+    "Revenues_in_millions(Adjusted for inflation)": 12.07940245
+  },
+  {
+    "Category": "Other",
+    "Format": "DVD Audio",
+    "Year": 2003,
+    "year-date": "2003-01-01",
+    "Units": 0.4,
+    "Revenues_in_millions": 8,
+    "Revenues_in_millions(Adjusted for inflation)": 11.11552174
+  },
+  {
+    "Category": "Other",
+    "Format": "DVD Audio",
+    "Year": 2004,
+    "year-date": "2004-01-01",
+    "Units": 0.3,
+    "Revenues_in_millions": 6.5,
+    "Revenues_in_millions(Adjusted for inflation)": 8.797091053
+  },
+  {
+    "Category": "Other",
+    "Format": "DVD Audio",
+    "Year": 2005,
+    "year-date": "2005-01-01",
+    "Units": 0.5,
+    "Revenues_in_millions": 11.2,
+    "Revenues_in_millions(Adjusted for inflation)": 14.66133333
+  },
+  {
+    "Category": "Other",
+    "Format": "DVD Audio",
+    "Year": 2006,
+    "year-date": "2006-01-01",
+    "Units": 0.1,
+    "Revenues_in_millions": 2.4,
+    "Revenues_in_millions(Adjusted for inflation)": 3.043535714
+  },
+  {
+    "Category": "Other",
+    "Format": "DVD Audio",
+    "Year": 2007,
+    "year-date": "2007-01-01",
+    "Units": 0.2,
+    "Revenues_in_millions": 2.8,
+    "Revenues_in_millions(Adjusted for inflation)": 3.453157742
+  },
+  {
+    "Category": "Other",
+    "Format": "DVD Audio",
+    "Year": 2008,
+    "year-date": "2008-01-01",
+    "Units": 0.04,
+    "Revenues_in_millions": 1.2,
+    "Revenues_in_millions(Adjusted for inflation)": 1.424914655
+  },
+  {
+    "Category": "Other",
+    "Format": "DVD Audio",
+    "Year": 2009,
+    "year-date": "2009-01-01",
+    "Units": 0.1,
+    "Revenues_in_millions": 1.6,
+    "Revenues_in_millions(Adjusted for inflation)": 1.906669712
+  },
+  {
+    "Category": "Other",
+    "Format": "DVD Audio",
+    "Year": 2010,
+    "year-date": "2010-01-01",
+    "Units": 0.04,
+    "Revenues_in_millions": 0.9,
+    "Revenues_in_millions(Adjusted for inflation)": 1.05519362
+  },
+  {
+    "Category": "Other",
+    "Format": "DVD Audio",
+    "Year": 2011,
+    "year-date": "2011-01-01",
+    "Units": 0.01,
+    "Revenues_in_millions": 0.3,
+    "Revenues_in_millions(Adjusted for inflation)": 0.34096844
+  },
+  {
+    "Category": "Other",
+    "Format": "DVD Audio",
+    "Year": 2012,
+    "year-date": "2012-01-01",
+    "Units": 0.008533145,
+    "Revenues_in_millions": 0.183106992,
+    "Revenues_in_millions(Adjusted for inflation)": 0.20389289
+  },
+  {
+    "Category": "Other",
+    "Format": "DVD Audio",
+    "Year": 2014,
+    "year-date": "2014-01-01",
+    "Units": 0.066542722,
+    "Revenues_in_millions": 2.139460944,
+    "Revenues_in_millions(Adjusted for inflation)": 2.310456232
+  },
+  {
+    "Category": "Other",
+    "Format": "DVD Audio",
+    "Year": 2015,
+    "year-date": "2015-01-01",
+    "Units": 0.179506738,
+    "Revenues_in_millions": 5.416232673,
+    "Revenues_in_millions(Adjusted for inflation)": 5.842187676
+  },
+  {
+    "Category": "Other",
+    "Format": "DVD Audio",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": 0.085898932,
+    "Revenues_in_millions": 2.83553587,
+    "Revenues_in_millions(Adjusted for inflation)": 3.020431045
+  },
+  {
+    "Category": "Other",
+    "Format": "DVD Audio",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": 0.061332251,
+    "Revenues_in_millions": 2.606840648,
+    "Revenues_in_millions(Adjusted for inflation)": 2.718901189
+  },
+  {
+    "Category": "Other",
+    "Format": "DVD Audio",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": 0.092803246,
+    "Revenues_in_millions": 3.317383752,
+    "Revenues_in_millions(Adjusted for inflation)": 3.377493968
+  },
+  {
+    "Category": "Other",
+    "Format": "DVD Audio",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": 0.027982262,
+    "Revenues_in_millions": 1.067303184,
+    "Revenues_in_millions(Adjusted for inflation)": 1.067303184
+  },
+  {
+    "Category": "Other",
+    "Format": "Kiosk",
+    "Year": 2005,
+    "year-date": "2005-01-01",
+    "Units": 0.7,
+    "Revenues_in_millions": 1,
+    "Revenues_in_millions(Adjusted for inflation)": 1.309047619
+  },
+  {
+    "Category": "Other",
+    "Format": "Kiosk",
+    "Year": 2006,
+    "year-date": "2006-01-01",
+    "Units": 1.4,
+    "Revenues_in_millions": 1.9,
+    "Revenues_in_millions(Adjusted for inflation)": 2.409465774
+  },
+  {
+    "Category": "Other",
+    "Format": "Kiosk",
+    "Year": 2007,
+    "year-date": "2007-01-01",
+    "Units": 1.8,
+    "Revenues_in_millions": 2.6,
+    "Revenues_in_millions(Adjusted for inflation)": 3.206503618
+  },
+  {
+    "Category": "Other",
+    "Format": "Kiosk",
+    "Year": 2008,
+    "year-date": "2008-01-01",
+    "Units": 1.6,
+    "Revenues_in_millions": 2.6,
+    "Revenues_in_millions(Adjusted for inflation)": 3.087315086
+  },
+  {
+    "Category": "Other",
+    "Format": "Kiosk",
+    "Year": 2009,
+    "year-date": "2009-01-01",
+    "Units": 1.7,
+    "Revenues_in_millions": 6.3,
+    "Revenues_in_millions(Adjusted for inflation)": 7.507511991
+  },
+  {
+    "Category": "Other",
+    "Format": "Kiosk",
+    "Year": 2010,
+    "year-date": "2010-01-01",
+    "Units": 1.7,
+    "Revenues_in_millions": 6.4,
+    "Revenues_in_millions(Adjusted for inflation)": 7.503599075
+  },
+  {
+    "Category": "Other",
+    "Format": "Kiosk",
+    "Year": 2011,
+    "year-date": "2011-01-01",
+    "Units": 1.3,
+    "Revenues_in_millions": 2.7,
+    "Revenues_in_millions(Adjusted for inflation)": 3.068715963
+  },
+  {
+    "Category": "Other",
+    "Format": "Kiosk",
+    "Year": 2012,
+    "year-date": "2012-01-01",
+    "Units": 1.95507,
+    "Revenues_in_millions": 3.654065,
+    "Revenues_in_millions(Adjusted for inflation)": 4.068866328
+  },
+  {
+    "Category": "Other",
+    "Format": "Kiosk",
+    "Year": 2013,
+    "year-date": "2013-01-01",
+    "Units": 3.7442,
+    "Revenues_in_millions": 6.183604,
+    "Revenues_in_millions(Adjusted for inflation)": 6.786152156
+  },
+  {
+    "Category": "Other",
+    "Format": "Kiosk",
+    "Year": 2014,
+    "year-date": "2014-01-01",
+    "Units": 1.592073358,
+    "Revenues_in_millions": 2.582636,
+    "Revenues_in_millions(Adjusted for inflation)": 2.789051821
+  },
+  {
+    "Category": "Other",
+    "Format": "Kiosk",
+    "Year": 2015,
+    "year-date": "2015-01-01",
+    "Units": 2.202659889,
+    "Revenues_in_millions": 3.700455,
+    "Revenues_in_millions(Adjusted for inflation)": 3.99147413
+  },
+  {
+    "Category": "Other",
+    "Format": "Kiosk",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": 1.74878121,
+    "Revenues_in_millions": 2.943916801,
+    "Revenues_in_millions(Adjusted for inflation)": 3.13587911
+  },
+  {
+    "Category": "Other",
+    "Format": "Kiosk",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": 1.322377717,
+    "Revenues_in_millions": 2.25474315,
+    "Revenues_in_millions(Adjusted for inflation)": 2.351668038
+  },
+  {
+    "Category": "Other",
+    "Format": "Kiosk",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": 1.097856529,
+    "Revenues_in_millions": 1.965045799,
+    "Revenues_in_millions(Adjusted for inflation)": 2.000651969
+  },
+  {
+    "Category": "Other",
+    "Format": "Kiosk",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": 0.899703865,
+    "Revenues_in_millions": 1.586470587,
+    "Revenues_in_millions(Adjusted for inflation)": 1.586470587
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Limited Tier Paid Subscription",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": "",
+    "Revenues_in_millions": 263.3636852,
+    "Revenues_in_millions(Adjusted for inflation)": 280.5366913
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Limited Tier Paid Subscription",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": "",
+    "Revenues_in_millions": 591.6010975,
+    "Revenues_in_millions(Adjusted for inflation)": 617.032318
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Limited Tier Paid Subscription",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": "",
+    "Revenues_in_millions": 747.0549062,
+    "Revenues_in_millions(Adjusted for inflation)": 760.591366
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Limited Tier Paid Subscription",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": "",
+    "Revenues_in_millions": 829.4987397,
+    "Revenues_in_millions(Adjusted for inflation)": 829.4987397
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1973,
+    "year-date": "1973-01-01",
+    "Units": 280,
+    "Revenues_in_millions": 1246,
+    "Revenues_in_millions(Adjusted for inflation)": 7174.518514
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1974,
+    "year-date": "1974-01-01",
+    "Units": 276,
+    "Revenues_in_millions": 1356,
+    "Revenues_in_millions(Adjusted for inflation)": 7031.863935
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1975,
+    "year-date": "1975-01-01",
+    "Units": 257,
+    "Revenues_in_millions": 1485,
+    "Revenues_in_millions(Adjusted for inflation)": 7056.703439
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1976,
+    "year-date": "1976-01-01",
+    "Units": 273,
+    "Revenues_in_millions": 1663,
+    "Revenues_in_millions(Adjusted for inflation)": 7472.013902
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1977,
+    "year-date": "1977-01-01",
+    "Units": 344,
+    "Revenues_in_millions": 2195.1,
+    "Revenues_in_millions(Adjusted for inflation)": 9260.605292
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1978,
+    "year-date": "1978-01-01",
+    "Units": 341.3,
+    "Revenues_in_millions": 2473.3,
+    "Revenues_in_millions(Adjusted for inflation)": 9698.105186
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1979,
+    "year-date": "1979-01-01",
+    "Units": 290,
+    "Revenues_in_millions": 2057,
+    "Revenues_in_millions(Adjusted for inflation)": 7243.615
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1980,
+    "year-date": "1980-01-01",
+    "Units": 308,
+    "Revenues_in_millions": 2200,
+    "Revenues_in_millions(Adjusted for inflation)": 6825.793689
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1981,
+    "year-date": "1981-01-01",
+    "Units": 295.2,
+    "Revenues_in_millions": 2341.7,
+    "Revenues_in_millions(Adjusted for inflation)": 6586.050571
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1982,
+    "year-date": "1982-01-01",
+    "Units": 243.9,
+    "Revenues_in_millions": 1925.1,
+    "Revenues_in_millions(Adjusted for inflation)": 5100.158453
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1983,
+    "year-date": "1983-01-01",
+    "Units": 209.6,
+    "Revenues_in_millions": 1689,
+    "Revenues_in_millions(Adjusted for inflation)": 4335.388283
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1984,
+    "year-date": "1984-01-01",
+    "Units": 204.6,
+    "Revenues_in_millions": 1548.8,
+    "Revenues_in_millions(Adjusted for inflation)": 3810.987118
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1985,
+    "year-date": "1985-01-01",
+    "Units": 167,
+    "Revenues_in_millions": 1280.5,
+    "Revenues_in_millions(Adjusted for inflation)": 3042.46086
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1986,
+    "year-date": "1986-01-01",
+    "Units": 125.2,
+    "Revenues_in_millions": 983,
+    "Revenues_in_millions(Adjusted for inflation)": 2292.982035
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1987,
+    "year-date": "1987-01-01",
+    "Units": 107,
+    "Revenues_in_millions": 793.1,
+    "Revenues_in_millions(Adjusted for inflation)": 1784.872946
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1988,
+    "year-date": "1988-01-01",
+    "Units": 72.4,
+    "Revenues_in_millions": 532.2,
+    "Revenues_in_millions(Adjusted for inflation)": 1150.132336
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1989,
+    "year-date": "1989-01-01",
+    "Units": 34.6,
+    "Revenues_in_millions": 220.3,
+    "Revenues_in_millions(Adjusted for inflation)": 454.203525
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1990,
+    "year-date": "1990-01-01",
+    "Units": 11.7,
+    "Revenues_in_millions": 86.5,
+    "Revenues_in_millions(Adjusted for inflation)": 169.1991622
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1991,
+    "year-date": "1991-01-01",
+    "Units": 4.8,
+    "Revenues_in_millions": 29.4,
+    "Revenues_in_millions(Adjusted for inflation)": 55.18587225
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1992,
+    "year-date": "1992-01-01",
+    "Units": 2.3,
+    "Revenues_in_millions": 13.5,
+    "Revenues_in_millions(Adjusted for inflation)": 24.59992516
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1993,
+    "year-date": "1993-01-01",
+    "Units": 1.2,
+    "Revenues_in_millions": 10.6,
+    "Revenues_in_millions(Adjusted for inflation)": 18.75407751
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1994,
+    "year-date": "1994-01-01",
+    "Units": 1.9,
+    "Revenues_in_millions": 17.8,
+    "Revenues_in_millions(Adjusted for inflation)": 30.7064413
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1995,
+    "year-date": "1995-01-01",
+    "Units": 2.2,
+    "Revenues_in_millions": 25.1,
+    "Revenues_in_millions(Adjusted for inflation)": 42.10623819
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1996,
+    "year-date": "1996-01-01",
+    "Units": 2.9,
+    "Revenues_in_millions": 36.8,
+    "Revenues_in_millions(Adjusted for inflation)": 59.96289101
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1997,
+    "year-date": "1997-01-01",
+    "Units": 2.7,
+    "Revenues_in_millions": 33.3,
+    "Revenues_in_millions(Adjusted for inflation)": 53.04285421
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1998,
+    "year-date": "1998-01-01",
+    "Units": 3.4,
+    "Revenues_in_millions": 34,
+    "Revenues_in_millions(Adjusted for inflation)": 53.32722699
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 1999,
+    "year-date": "1999-01-01",
+    "Units": 2.9,
+    "Revenues_in_millions": 31.8,
+    "Revenues_in_millions(Adjusted for inflation)": 48.79887515
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2000,
+    "year-date": "2000-01-01",
+    "Units": 2.2,
+    "Revenues_in_millions": 27.7,
+    "Revenues_in_millions(Adjusted for inflation)": 41.12484843
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2001,
+    "year-date": "2001-01-01",
+    "Units": 2.3,
+    "Revenues_in_millions": 27.4,
+    "Revenues_in_millions(Adjusted for inflation)": 39.5539345
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2002,
+    "year-date": "2002-01-01",
+    "Units": 1.743,
+    "Revenues_in_millions": 20.5,
+    "Revenues_in_millions(Adjusted for inflation)": 29.13267649
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2003,
+    "year-date": "2003-01-01",
+    "Units": 1.5,
+    "Revenues_in_millions": 21.7,
+    "Revenues_in_millions(Adjusted for inflation)": 30.15085272
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2004,
+    "year-date": "2004-01-01",
+    "Units": 1.4,
+    "Revenues_in_millions": 19.3,
+    "Revenues_in_millions(Adjusted for inflation)": 26.12059344
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2005,
+    "year-date": "2005-01-01",
+    "Units": 1,
+    "Revenues_in_millions": 14.2,
+    "Revenues_in_millions(Adjusted for inflation)": 18.58847619
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2006,
+    "year-date": "2006-01-01",
+    "Units": 0.9,
+    "Revenues_in_millions": 15.7,
+    "Revenues_in_millions(Adjusted for inflation)": 19.90979613
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2007,
+    "year-date": "2007-01-01",
+    "Units": 1.3,
+    "Revenues_in_millions": 22.9,
+    "Revenues_in_millions(Adjusted for inflation)": 28.24189725
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2008,
+    "year-date": "2008-01-01",
+    "Units": 2.9,
+    "Revenues_in_millions": 56.7,
+    "Revenues_in_millions(Adjusted for inflation)": 67.32721746
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2009,
+    "year-date": "2009-01-01",
+    "Units": 3.5,
+    "Revenues_in_millions": 63.8,
+    "Revenues_in_millions(Adjusted for inflation)": 76.02845477
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2010,
+    "year-date": "2010-01-01",
+    "Units": 4.2,
+    "Revenues_in_millions": 88.9,
+    "Revenues_in_millions(Adjusted for inflation)": 104.2296809
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2011,
+    "year-date": "2011-01-01",
+    "Units": 5.5,
+    "Revenues_in_millions": 119.4,
+    "Revenues_in_millions(Adjusted for inflation)": 135.7054393
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2012,
+    "year-date": "2012-01-01",
+    "Units": 6.915365189,
+    "Revenues_in_millions": 160.7230583,
+    "Revenues_in_millions(Adjusted for inflation)": 178.9679822
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2013,
+    "year-date": "2013-01-01",
+    "Units": 9.35128587,
+    "Revenues_in_millions": 210.739051,
+    "Revenues_in_millions(Adjusted for inflation)": 231.2740702
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2014,
+    "year-date": "2014-01-01",
+    "Units": 10.31556391,
+    "Revenues_in_millions": 243.8468483,
+    "Revenues_in_millions(Adjusted for inflation)": 263.3361791
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2015,
+    "year-date": "2015-01-01",
+    "Units": 13.68102972,
+    "Revenues_in_millions": 333.3797931,
+    "Revenues_in_millions(Adjusted for inflation)": 359.5981629
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": 14.77088603,
+    "Revenues_in_millions": 355.430891,
+    "Revenues_in_millions(Adjusted for inflation)": 378.607271
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": 15.55608917,
+    "Revenues_in_millions": 388.5111082,
+    "Revenues_in_millions(Adjusted for inflation)": 405.2120773
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": 16.67012733,
+    "Revenues_in_millions": 419.223947,
+    "Revenues_in_millions(Adjusted for inflation)": 426.8201866
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "LP/EP",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": 19.10316283,
+    "Revenues_in_millions": 497.5889208,
+    "Revenues_in_millions(Adjusted for inflation)": 497.5889208
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 1989,
+    "year-date": "1989-01-01",
+    "Units": 6.1,
+    "Revenues_in_millions": 115.4,
+    "Revenues_in_millions(Adjusted for inflation)": 237.92595
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 1990,
+    "year-date": "1990-01-01",
+    "Units": 9.2,
+    "Revenues_in_millions": 172.3,
+    "Revenues_in_millions(Adjusted for inflation)": 337.0290826
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 1991,
+    "year-date": "1991-01-01",
+    "Units": 6.1,
+    "Revenues_in_millions": 118.1,
+    "Revenues_in_millions(Adjusted for inflation)": 221.6820242
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 1992,
+    "year-date": "1992-01-01",
+    "Units": 7.6,
+    "Revenues_in_millions": 157.4,
+    "Revenues_in_millions(Adjusted for inflation)": 286.8169052
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 1993,
+    "year-date": "1993-01-01",
+    "Units": 11,
+    "Revenues_in_millions": 213.3,
+    "Revenues_in_millions(Adjusted for inflation)": 377.3815785
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 1994,
+    "year-date": "1994-01-01",
+    "Units": 11.2,
+    "Revenues_in_millions": 231.1,
+    "Revenues_in_millions(Adjusted for inflation)": 398.6662126
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 1995,
+    "year-date": "1995-01-01",
+    "Units": 12.6,
+    "Revenues_in_millions": 220.3,
+    "Revenues_in_millions(Adjusted for inflation)": 369.5619232
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 1996,
+    "year-date": "1996-01-01",
+    "Units": 16.9,
+    "Revenues_in_millions": 236.1,
+    "Revenues_in_millions(Adjusted for inflation)": 384.7075698
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 1997,
+    "year-date": "1997-01-01",
+    "Units": 18.6,
+    "Revenues_in_millions": 323.9,
+    "Revenues_in_millions(Adjusted for inflation)": 515.9333477
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 1998,
+    "year-date": "1998-01-01",
+    "Units": 27.2,
+    "Revenues_in_millions": 508,
+    "Revenues_in_millions(Adjusted for inflation)": 796.7715092
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 1999,
+    "year-date": "1999-01-01",
+    "Units": 19.8,
+    "Revenues_in_millions": 376.7,
+    "Revenues_in_millions(Adjusted for inflation)": 578.0671783
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2000,
+    "year-date": "2000-01-01",
+    "Units": 18.2,
+    "Revenues_in_millions": 281.9,
+    "Revenues_in_millions(Adjusted for inflation)": 418.523277
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2001,
+    "year-date": "2001-01-01",
+    "Units": 17.7,
+    "Revenues_in_millions": 329.2,
+    "Revenues_in_millions(Adjusted for inflation)": 475.2246437
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2002,
+    "year-date": "2002-01-01",
+    "Units": 14.7,
+    "Revenues_in_millions": 288.4,
+    "Revenues_in_millions(Adjusted for inflation)": 409.8470195
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2003,
+    "year-date": "2003-01-01",
+    "Units": 19.9,
+    "Revenues_in_millions": 399.9,
+    "Revenues_in_millions(Adjusted for inflation)": 555.6371429
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2004,
+    "year-date": "2004-01-01",
+    "Units": 32.8,
+    "Revenues_in_millions": 607.2,
+    "Revenues_in_millions(Adjusted for inflation)": 821.7836443
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2005,
+    "year-date": "2005-01-01",
+    "Units": 33.8,
+    "Revenues_in_millions": 602.2,
+    "Revenues_in_millions(Adjusted for inflation)": 788.3084762
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2006,
+    "year-date": "2006-01-01",
+    "Units": 23.2,
+    "Revenues_in_millions": 451.1,
+    "Revenues_in_millions(Adjusted for inflation)": 572.0579003
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2007,
+    "year-date": "2007-01-01",
+    "Units": 27.5,
+    "Revenues_in_millions": 484.9,
+    "Revenues_in_millions(Adjusted for inflation)": 598.0129247
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2008,
+    "year-date": "2008-01-01",
+    "Units": 13.2,
+    "Revenues_in_millions": 227.3,
+    "Revenues_in_millions(Adjusted for inflation)": 269.9025843
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2009,
+    "year-date": "2009-01-01",
+    "Units": 11.6,
+    "Revenues_in_millions": 209.6,
+    "Revenues_in_millions(Adjusted for inflation)": 249.7737323
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2010,
+    "year-date": "2010-01-01",
+    "Units": 9.1,
+    "Revenues_in_millions": 177.6,
+    "Revenues_in_millions(Adjusted for inflation)": 208.2248743
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2011,
+    "year-date": "2011-01-01",
+    "Units": 7.7,
+    "Revenues_in_millions": 151,
+    "Revenues_in_millions(Adjusted for inflation)": 171.6207816
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2012,
+    "year-date": "2012-01-01",
+    "Units": 6.032725467,
+    "Revenues_in_millions": 116.6136546,
+    "Revenues_in_millions(Adjusted for inflation)": 129.8513772
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2013,
+    "year-date": "2013-01-01",
+    "Units": 4.814626524,
+    "Revenues_in_millions": 106.2831378,
+    "Revenues_in_millions(Adjusted for inflation)": 116.6396724
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2014,
+    "year-date": "2014-01-01",
+    "Units": 4.065323601,
+    "Revenues_in_millions": 89.70557988,
+    "Revenues_in_millions(Adjusted for inflation)": 96.87525106
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2015,
+    "year-date": "2015-01-01",
+    "Units": 3.133228006,
+    "Revenues_in_millions": 70.43436396,
+    "Revenues_in_millions(Adjusted for inflation)": 75.97361449
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": 2.495531725,
+    "Revenues_in_millions": 56.92290281,
+    "Revenues_in_millions(Adjusted for inflation)": 60.63464218
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": 1.87712837,
+    "Revenues_in_millions": 38.619447,
+    "Revenues_in_millions(Adjusted for inflation)": 40.27958535
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": 1.395058021,
+    "Revenues_in_millions": 27.5612603,
+    "Revenues_in_millions(Adjusted for inflation)": 28.06066388
+  },
+  {
+    "Category": "Other",
+    "Format": "Music Video (Physical)",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": 1.32294236,
+    "Revenues_in_millions": 27.70524678,
+    "Revenues_in_millions(Adjusted for inflation)": 27.70524678
+  },
+  {
+    "Category": "Streaming",
+    "Format": "On-Demand Streaming (Ad-Supported)",
+    "Year": 2011,
+    "year-date": "2011-01-01",
+    "Units": "",
+    "Revenues_in_millions": 113.8,
+    "Revenues_in_millions(Adjusted for inflation)": 129.340695
+  },
+  {
+    "Category": "Streaming",
+    "Format": "On-Demand Streaming (Ad-Supported)",
+    "Year": 2012,
+    "year-date": "2012-01-01",
+    "Units": "",
+    "Revenues_in_millions": 170.9354084,
+    "Revenues_in_millions(Adjusted for inflation)": 190.3396156
+  },
+  {
+    "Category": "Streaming",
+    "Format": "On-Demand Streaming (Ad-Supported)",
+    "Year": 2013,
+    "year-date": "2013-01-01",
+    "Units": "",
+    "Revenues_in_millions": 220.8735445,
+    "Revenues_in_millions(Adjusted for inflation)": 242.3960978
+  },
+  {
+    "Category": "Streaming",
+    "Format": "On-Demand Streaming (Ad-Supported)",
+    "Year": 2014,
+    "year-date": "2014-01-01",
+    "Units": "",
+    "Revenues_in_millions": 283.7934094,
+    "Revenues_in_millions(Adjusted for inflation)": 306.475448
+  },
+  {
+    "Category": "Streaming",
+    "Format": "On-Demand Streaming (Ad-Supported)",
+    "Year": 2015,
+    "year-date": "2015-01-01",
+    "Units": "",
+    "Revenues_in_millions": 371.9903964,
+    "Revenues_in_millions(Adjusted for inflation)": 401.2452641
+  },
+  {
+    "Category": "Streaming",
+    "Format": "On-Demand Streaming (Ad-Supported)",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": "",
+    "Revenues_in_millions": 489.3776076,
+    "Revenues_in_millions(Adjusted for inflation)": 521.288175
+  },
+  {
+    "Category": "Streaming",
+    "Format": "On-Demand Streaming (Ad-Supported)",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": "",
+    "Revenues_in_millions": 658.6064926,
+    "Revenues_in_millions(Adjusted for inflation)": 686.9180813
+  },
+  {
+    "Category": "Streaming",
+    "Format": "On-Demand Streaming (Ad-Supported)",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": "",
+    "Revenues_in_millions": 759.5323682,
+    "Revenues_in_millions(Adjusted for inflation)": 773.2949167
+  },
+  {
+    "Category": "Streaming",
+    "Format": "On-Demand Streaming (Ad-Supported)",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": "",
+    "Revenues_in_millions": 908.1493305,
+    "Revenues_in_millions(Adjusted for inflation)": 908.1493305
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Other Ad-Supported Streaming",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": "",
+    "Revenues_in_millions": 81.26086562,
+    "Revenues_in_millions(Adjusted for inflation)": 86.55959668
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Other Ad-Supported Streaming",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": "",
+    "Revenues_in_millions": 261.786859,
+    "Revenues_in_millions(Adjusted for inflation)": 273.040319
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Other Ad-Supported Streaming",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": "",
+    "Revenues_in_millions": 251.4119188,
+    "Revenues_in_millions(Adjusted for inflation)": 255.9674439
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Other Ad-Supported Streaming",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": "",
+    "Revenues_in_millions": 251.0647101,
+    "Revenues_in_millions(Adjusted for inflation)": 251.0647101
+  },
+  {
+    "Category": "Download",
+    "Format": "Other Digital",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": "",
+    "Revenues_in_millions": 17.14166287,
+    "Revenues_in_millions(Adjusted for inflation)": 18.25940954
+  },
+  {
+    "Category": "Download",
+    "Format": "Other Digital",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": "",
+    "Revenues_in_millions": 16.88510987,
+    "Revenues_in_millions(Adjusted for inflation)": 17.61095192
+  },
+  {
+    "Category": "Download",
+    "Format": "Other Digital",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": "",
+    "Revenues_in_millions": 19.83957487,
+    "Revenues_in_millions(Adjusted for inflation)": 20.19906331
+  },
+  {
+    "Category": "Download",
+    "Format": "Other Digital",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": "",
+    "Revenues_in_millions": 21.51717501,
+    "Revenues_in_millions(Adjusted for inflation)": 21.51717501
+  },
+  {
+    "Category": "Tape",
+    "Format": "Other Tapes",
+    "Year": 1973,
+    "year-date": "1973-01-01",
+    "Units": 2.2,
+    "Revenues_in_millions": 15.6,
+    "Revenues_in_millions(Adjusted for inflation)": 89.82543243
+  },
+  {
+    "Category": "Tape",
+    "Format": "Other Tapes",
+    "Year": 1974,
+    "year-date": "1974-01-01",
+    "Units": 1.9,
+    "Revenues_in_millions": 13.3,
+    "Revenues_in_millions(Adjusted for inflation)": 68.97034686
+  },
+  {
+    "Category": "Tape",
+    "Format": "Other Tapes",
+    "Year": 1975,
+    "year-date": "1975-01-01",
+    "Units": 1.5,
+    "Revenues_in_millions": 10.2,
+    "Revenues_in_millions(Adjusted for inflation)": 48.47028625
+  },
+  {
+    "Category": "Tape",
+    "Format": "Other Tapes",
+    "Year": 1976,
+    "year-date": "1976-01-01",
+    "Units": 0.7,
+    "Revenues_in_millions": 5.1,
+    "Revenues_in_millions(Adjusted for inflation)": 22.91477504
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Paid Subscription",
+    "Year": 2005,
+    "year-date": "2005-01-01",
+    "Units": "",
+    "Revenues_in_millions": 149.2,
+    "Revenues_in_millions(Adjusted for inflation)": 195.3099048
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Paid Subscription",
+    "Year": 2006,
+    "year-date": "2006-01-01",
+    "Units": "",
+    "Revenues_in_millions": 206.2,
+    "Revenues_in_millions(Adjusted for inflation)": 261.4904435
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Paid Subscription",
+    "Year": 2007,
+    "year-date": "2007-01-01",
+    "Units": "",
+    "Revenues_in_millions": 234,
+    "Revenues_in_millions(Adjusted for inflation)": 288.5853256
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Paid Subscription",
+    "Year": 2008,
+    "year-date": "2008-01-01",
+    "Units": "",
+    "Revenues_in_millions": 221.4,
+    "Revenues_in_millions(Adjusted for inflation)": 262.8967539
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Paid Subscription",
+    "Year": 2009,
+    "year-date": "2009-01-01",
+    "Units": "",
+    "Revenues_in_millions": 206.2,
+    "Revenues_in_millions(Adjusted for inflation)": 245.7220591
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Paid Subscription",
+    "Year": 2010,
+    "year-date": "2010-01-01",
+    "Units": "",
+    "Revenues_in_millions": 212.4,
+    "Revenues_in_millions(Adjusted for inflation)": 249.0256943
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Paid Subscription",
+    "Year": 2011,
+    "year-date": "2011-01-01",
+    "Units": "",
+    "Revenues_in_millions": 247.8,
+    "Revenues_in_millions(Adjusted for inflation)": 281.6399317
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Paid Subscription",
+    "Year": 2012,
+    "year-date": "2012-01-01",
+    "Units": "",
+    "Revenues_in_millions": 399.8825311,
+    "Revenues_in_millions(Adjusted for inflation)": 445.2763062
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Paid Subscription",
+    "Year": 2013,
+    "year-date": "2013-01-01",
+    "Units": "",
+    "Revenues_in_millions": 643.3242888,
+    "Revenues_in_millions(Adjusted for inflation)": 706.0116575
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Paid Subscription",
+    "Year": 2014,
+    "year-date": "2014-01-01",
+    "Units": "",
+    "Revenues_in_millions": 770.2705591,
+    "Revenues_in_millions(Adjusted for inflation)": 831.8340275
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Paid Subscription",
+    "Year": 2015,
+    "year-date": "2015-01-01",
+    "Units": "",
+    "Revenues_in_millions": 1156.708514,
+    "Revenues_in_millions(Adjusted for inflation)": 1247.676869
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Paid Subscription",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": "",
+    "Revenues_in_millions": 2244.154254,
+    "Revenues_in_millions(Adjusted for inflation)": 2390.487545
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Paid Subscription",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": "",
+    "Revenues_in_millions": 3500.549813,
+    "Revenues_in_millions(Adjusted for inflation)": 3651.028327
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Paid Subscription",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": "",
+    "Revenues_in_millions": 4655.968522,
+    "Revenues_in_millions(Adjusted for inflation)": 4740.333581
+  },
+  {
+    "Category": "Streaming",
+    "Format": "Paid Subscription",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": "",
+    "Revenues_in_millions": 5934.397625,
+    "Revenues_in_millions(Adjusted for inflation)": 5934.397625
+  },
+  {
+    "Category": "Download",
+    "Format": "Ringtones & Ringbacks",
+    "Year": 2005,
+    "year-date": "2005-01-01",
+    "Units": 170,
+    "Revenues_in_millions": 421.6,
+    "Revenues_in_millions(Adjusted for inflation)": 551.8944762
+  },
+  {
+    "Category": "Download",
+    "Format": "Ringtones & Ringbacks",
+    "Year": 2006,
+    "year-date": "2006-01-01",
+    "Units": 315,
+    "Revenues_in_millions": 773.8,
+    "Revenues_in_millions(Adjusted for inflation)": 981.2866399
+  },
+  {
+    "Category": "Download",
+    "Format": "Ringtones & Ringbacks",
+    "Year": 2007,
+    "year-date": "2007-01-01",
+    "Units": 433.8,
+    "Revenues_in_millions": 1055.8,
+    "Revenues_in_millions(Adjusted for inflation)": 1302.087123
+  },
+  {
+    "Category": "Download",
+    "Format": "Ringtones & Ringbacks",
+    "Year": 2008,
+    "year-date": "2008-01-01",
+    "Units": 405.1,
+    "Revenues_in_millions": 977.1,
+    "Revenues_in_millions(Adjusted for inflation)": 1160.236758
+  },
+  {
+    "Category": "Download",
+    "Format": "Ringtones & Ringbacks",
+    "Year": 2009,
+    "year-date": "2009-01-01",
+    "Units": 294.3,
+    "Revenues_in_millions": 702.8,
+    "Revenues_in_millions(Adjusted for inflation)": 837.504671
+  },
+  {
+    "Category": "Download",
+    "Format": "Ringtones & Ringbacks",
+    "Year": 2010,
+    "year-date": "2010-01-01",
+    "Units": 188.5,
+    "Revenues_in_millions": 448,
+    "Revenues_in_millions(Adjusted for inflation)": 525.2519353
+  },
+  {
+    "Category": "Download",
+    "Format": "Ringtones & Ringbacks",
+    "Year": 2011,
+    "year-date": "2011-01-01",
+    "Units": 115.4,
+    "Revenues_in_millions": 276.2,
+    "Revenues_in_millions(Adjusted for inflation)": 313.9182774
+  },
+  {
+    "Category": "Download",
+    "Format": "Ringtones & Ringbacks",
+    "Year": 2012,
+    "year-date": "2012-01-01",
+    "Units": 58.75740356,
+    "Revenues_in_millions": 145.9929351,
+    "Revenues_in_millions(Adjusted for inflation)": 162.5657282
+  },
+  {
+    "Category": "Download",
+    "Format": "Ringtones & Ringbacks",
+    "Year": 2013,
+    "year-date": "2013-01-01",
+    "Units": 39.36623578,
+    "Revenues_in_millions": 97.99961233,
+    "Revenues_in_millions(Adjusted for inflation)": 107.5489764
+  },
+  {
+    "Category": "Download",
+    "Format": "Ringtones & Ringbacks",
+    "Year": 2014,
+    "year-date": "2014-01-01",
+    "Units": 26.63232368,
+    "Revenues_in_millions": 66.31137067,
+    "Revenues_in_millions(Adjusted for inflation)": 71.61127201
+  },
+  {
+    "Category": "Download",
+    "Format": "Ringtones & Ringbacks",
+    "Year": 2015,
+    "year-date": "2015-01-01",
+    "Units": 21.92486605,
+    "Revenues_in_millions": 54.58202422,
+    "Revenues_in_millions(Adjusted for inflation)": 58.87458101
+  },
+  {
+    "Category": "Download",
+    "Format": "Ringtones & Ringbacks",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": 22.62078539,
+    "Revenues_in_millions": 56.32529913,
+    "Revenues_in_millions(Adjusted for inflation)": 59.99807088
+  },
+  {
+    "Category": "Download",
+    "Format": "Ringtones & Ringbacks",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": 14.26286994,
+    "Revenues_in_millions": 35.51373565,
+    "Revenues_in_millions(Adjusted for inflation)": 37.04036846
+  },
+  {
+    "Category": "Download",
+    "Format": "Ringtones & Ringbacks",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": 10.02628673,
+    "Revenues_in_millions": 24.9578598,
+    "Revenues_in_millions(Adjusted for inflation)": 25.41009037
+  },
+  {
+    "Category": "Download",
+    "Format": "Ringtones & Ringbacks",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": 8.605769716,
+    "Revenues_in_millions": 21.4267369,
+    "Revenues_in_millions(Adjusted for inflation)": 21.4267369
+  },
+  {
+    "Category": "Disc",
+    "Format": "SACD",
+    "Year": 2003,
+    "year-date": "2003-01-01",
+    "Units": 1.3,
+    "Revenues_in_millions": 26.3,
+    "Revenues_in_millions(Adjusted for inflation)": 36.54227772
+  },
+  {
+    "Category": "Disc",
+    "Format": "SACD",
+    "Year": 2004,
+    "year-date": "2004-01-01",
+    "Units": 0.8,
+    "Revenues_in_millions": 16.6,
+    "Revenues_in_millions(Adjusted for inflation)": 22.46641715
+  },
+  {
+    "Category": "Disc",
+    "Format": "SACD",
+    "Year": 2005,
+    "year-date": "2005-01-01",
+    "Units": 0.5,
+    "Revenues_in_millions": 10,
+    "Revenues_in_millions(Adjusted for inflation)": 13.09047619
+  },
+  {
+    "Category": "Disc",
+    "Format": "SACD",
+    "Year": 2006,
+    "year-date": "2006-01-01",
+    "Units": 0.3,
+    "Revenues_in_millions": 5.5,
+    "Revenues_in_millions(Adjusted for inflation)": 6.974769345
+  },
+  {
+    "Category": "Disc",
+    "Format": "SACD",
+    "Year": 2007,
+    "year-date": "2007-01-01",
+    "Units": 0.2,
+    "Revenues_in_millions": 3.6,
+    "Revenues_in_millions(Adjusted for inflation)": 4.43977424
+  },
+  {
+    "Category": "Disc",
+    "Format": "SACD",
+    "Year": 2008,
+    "year-date": "2008-01-01",
+    "Units": 0.1,
+    "Revenues_in_millions": 3.1,
+    "Revenues_in_millions(Adjusted for inflation)": 3.681029526
+  },
+  {
+    "Category": "Disc",
+    "Format": "SACD",
+    "Year": 2009,
+    "year-date": "2009-01-01",
+    "Units": 0.1,
+    "Revenues_in_millions": 2.4,
+    "Revenues_in_millions(Adjusted for inflation)": 2.860004568
+  },
+  {
+    "Category": "Disc",
+    "Format": "SACD",
+    "Year": 2010,
+    "year-date": "2010-01-01",
+    "Units": 0.1,
+    "Revenues_in_millions": 1.7,
+    "Revenues_in_millions(Adjusted for inflation)": 1.993143504
+  },
+  {
+    "Category": "Disc",
+    "Format": "SACD",
+    "Year": 2011,
+    "year-date": "2011-01-01",
+    "Units": 0.1,
+    "Revenues_in_millions": 1.5,
+    "Revenues_in_millions(Adjusted for inflation)": 1.704842202
+  },
+  {
+    "Category": "Disc",
+    "Format": "SACD",
+    "Year": 2012,
+    "year-date": "2012-01-01",
+    "Units": 0.065446,
+    "Revenues_in_millions": 1.3425,
+    "Revenues_in_millions(Adjusted for inflation)": 1.494897613
+  },
+  {
+    "Category": "Disc",
+    "Format": "SACD",
+    "Year": 2013,
+    "year-date": "2013-01-01",
+    "Units": 0.044683,
+    "Revenues_in_millions": 0.9783826,
+    "Revenues_in_millions(Adjusted for inflation)": 1.073719014
+  },
+  {
+    "Category": "Disc",
+    "Format": "SACD",
+    "Year": 2014,
+    "year-date": "2014-01-01",
+    "Units": 0.030486,
+    "Revenues_in_millions": 0.76344539,
+    "Revenues_in_millions(Adjusted for inflation)": 0.82446336
+  },
+  {
+    "Category": "Disc",
+    "Format": "SACD",
+    "Year": 2015,
+    "year-date": "2015-01-01",
+    "Units": 0.041633,
+    "Revenues_in_millions": 1.04346656,
+    "Revenues_in_millions(Adjusted for inflation)": 1.125529098
+  },
+  {
+    "Category": "Disc",
+    "Format": "SACD",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": 0.045272,
+    "Revenues_in_millions": 1.20686148,
+    "Revenues_in_millions(Adjusted for inflation)": 1.28555661
+  },
+  {
+    "Category": "Disc",
+    "Format": "SACD",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": 0.032749,
+    "Revenues_in_millions": 0.85057856,
+    "Revenues_in_millions(Adjusted for inflation)": 0.887142473
+  },
+  {
+    "Category": "Disc",
+    "Format": "SACD",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": 0.032804,
+    "Revenues_in_millions": 0.85969971,
+    "Revenues_in_millions(Adjusted for inflation)": 0.875277267
+  },
+  {
+    "Category": "Disc",
+    "Format": "SACD",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": 0.017654,
+    "Revenues_in_millions": 0.433302292,
+    "Revenues_in_millions(Adjusted for inflation)": 0.433302292
+  },
+  {
+    "Category": "Streaming",
+    "Format": "SoundExchange Distributions",
+    "Year": 2004,
+    "year-date": "2004-01-01",
+    "Units": "",
+    "Revenues_in_millions": 6.9,
+    "Revenues_in_millions(Adjusted for inflation)": 9.338450503
+  },
+  {
+    "Category": "Streaming",
+    "Format": "SoundExchange Distributions",
+    "Year": 2005,
+    "year-date": "2005-01-01",
+    "Units": "",
+    "Revenues_in_millions": 20.4,
+    "Revenues_in_millions(Adjusted for inflation)": 26.70457143
+  },
+  {
+    "Category": "Streaming",
+    "Format": "SoundExchange Distributions",
+    "Year": 2006,
+    "year-date": "2006-01-01",
+    "Units": "",
+    "Revenues_in_millions": 32.8,
+    "Revenues_in_millions(Adjusted for inflation)": 41.5949881
+  },
+  {
+    "Category": "Streaming",
+    "Format": "SoundExchange Distributions",
+    "Year": 2007,
+    "year-date": "2007-01-01",
+    "Units": "",
+    "Revenues_in_millions": 36.2,
+    "Revenues_in_millions(Adjusted for inflation)": 44.64439653
+  },
+  {
+    "Category": "Streaming",
+    "Format": "SoundExchange Distributions",
+    "Year": 2008,
+    "year-date": "2008-01-01",
+    "Units": "",
+    "Revenues_in_millions": 100,
+    "Revenues_in_millions(Adjusted for inflation)": 118.7428879
+  },
+  {
+    "Category": "Streaming",
+    "Format": "SoundExchange Distributions",
+    "Year": 2009,
+    "year-date": "2009-01-01",
+    "Units": "",
+    "Revenues_in_millions": 155.5,
+    "Revenues_in_millions(Adjusted for inflation)": 185.3044626
+  },
+  {
+    "Category": "Streaming",
+    "Format": "SoundExchange Distributions",
+    "Year": 2010,
+    "year-date": "2010-01-01",
+    "Units": "",
+    "Revenues_in_millions": 249.2,
+    "Revenues_in_millions(Adjusted for inflation)": 292.171389
+  },
+  {
+    "Category": "Streaming",
+    "Format": "SoundExchange Distributions",
+    "Year": 2011,
+    "year-date": "2011-01-01",
+    "Units": "",
+    "Revenues_in_millions": 292,
+    "Revenues_in_millions(Adjusted for inflation)": 331.8759486
+  },
+  {
+    "Category": "Streaming",
+    "Format": "SoundExchange Distributions",
+    "Year": 2012,
+    "year-date": "2012-01-01",
+    "Units": "",
+    "Revenues_in_millions": 462,
+    "Revenues_in_millions(Adjusted for inflation)": 514.445212
+  },
+  {
+    "Category": "Streaming",
+    "Format": "SoundExchange Distributions",
+    "Year": 2013,
+    "year-date": "2013-01-01",
+    "Units": "",
+    "Revenues_in_millions": 590.4,
+    "Revenues_in_millions(Adjusted for inflation)": 647.9302738
+  },
+  {
+    "Category": "Streaming",
+    "Format": "SoundExchange Distributions",
+    "Year": 2014,
+    "year-date": "2014-01-01",
+    "Units": "",
+    "Revenues_in_millions": 773.4,
+    "Revenues_in_millions(Adjusted for inflation)": 835.2135873
+  },
+  {
+    "Category": "Streaming",
+    "Format": "SoundExchange Distributions",
+    "Year": 2015,
+    "year-date": "2015-01-01",
+    "Units": "",
+    "Revenues_in_millions": 802.6,
+    "Revenues_in_millions(Adjusted for inflation)": 865.7197931
+  },
+  {
+    "Category": "Streaming",
+    "Format": "SoundExchange Distributions",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": "",
+    "Revenues_in_millions": 883.9,
+    "Revenues_in_millions(Adjusted for inflation)": 941.5359648
+  },
+  {
+    "Category": "Streaming",
+    "Format": "SoundExchange Distributions",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": "",
+    "Revenues_in_millions": 652,
+    "Revenues_in_millions(Adjusted for inflation)": 680.0275946
+  },
+  {
+    "Category": "Streaming",
+    "Format": "SoundExchange Distributions",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": "",
+    "Revenues_in_millions": 952.8,
+    "Revenues_in_millions(Adjusted for inflation)": 970.0645127
+  },
+  {
+    "Category": "Streaming",
+    "Format": "SoundExchange Distributions",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": "",
+    "Revenues_in_millions": 908.2,
+    "Revenues_in_millions(Adjusted for inflation)": 908.2
+  },
+  {
+    "Category": "Other",
+    "Format": "Synchronization",
+    "Year": 2009,
+    "year-date": "2009-01-01",
+    "Units": "",
+    "Revenues_in_millions": 201.2,
+    "Revenues_in_millions(Adjusted for inflation)": 239.7637163
+  },
+  {
+    "Category": "Other",
+    "Format": "Synchronization",
+    "Year": 2010,
+    "year-date": "2010-01-01",
+    "Units": "",
+    "Revenues_in_millions": 188.7,
+    "Revenues_in_millions(Adjusted for inflation)": 221.238929
+  },
+  {
+    "Category": "Other",
+    "Format": "Synchronization",
+    "Year": 2011,
+    "year-date": "2011-01-01",
+    "Units": "",
+    "Revenues_in_millions": 196.5,
+    "Revenues_in_millions(Adjusted for inflation)": 223.3343284
+  },
+  {
+    "Category": "Other",
+    "Format": "Synchronization",
+    "Year": 2012,
+    "year-date": "2012-01-01",
+    "Units": "",
+    "Revenues_in_millions": 190.597753,
+    "Revenues_in_millions(Adjusted for inflation)": 212.2339858
+  },
+  {
+    "Category": "Other",
+    "Format": "Synchronization",
+    "Year": 2013,
+    "year-date": "2013-01-01",
+    "Units": "",
+    "Revenues_in_millions": 189.679434,
+    "Revenues_in_millions(Adjusted for inflation)": 208.1623435
+  },
+  {
+    "Category": "Other",
+    "Format": "Synchronization",
+    "Year": 2014,
+    "year-date": "2014-01-01",
+    "Units": "",
+    "Revenues_in_millions": 189.713099,
+    "Revenues_in_millions(Adjusted for inflation)": 204.8758184
+  },
+  {
+    "Category": "Other",
+    "Format": "Synchronization",
+    "Year": 2015,
+    "year-date": "2015-01-01",
+    "Units": "",
+    "Revenues_in_millions": 202.934888,
+    "Revenues_in_millions(Adjusted for inflation)": 218.8945293
+  },
+  {
+    "Category": "Other",
+    "Format": "Synchronization",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": "",
+    "Revenues_in_millions": 214.8389765,
+    "Revenues_in_millions(Adjusted for inflation)": 228.8478595
+  },
+  {
+    "Category": "Other",
+    "Format": "Synchronization",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": "",
+    "Revenues_in_millions": 232.0865229,
+    "Revenues_in_millions(Adjusted for inflation)": 242.0632514
+  },
+  {
+    "Category": "Other",
+    "Format": "Synchronization",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": "",
+    "Revenues_in_millions": 285.5134913,
+    "Revenues_in_millions(Adjusted for inflation)": 290.6869289
+  },
+  {
+    "Category": "Other",
+    "Format": "Synchronization",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": "",
+    "Revenues_in_millions": 276.2623602,
+    "Revenues_in_millions(Adjusted for inflation)": 276.2623602
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1973,
+    "year-date": "1973-01-01",
+    "Units": 228,
+    "Revenues_in_millions": 190,
+    "Revenues_in_millions(Adjusted for inflation)": 1094.027703
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1974,
+    "year-date": "1974-01-01",
+    "Units": 204,
+    "Revenues_in_millions": 194,
+    "Revenues_in_millions(Adjusted for inflation)": 1006.033631
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1975,
+    "year-date": "1975-01-01",
+    "Units": 164,
+    "Revenues_in_millions": 211.5,
+    "Revenues_in_millions(Adjusted for inflation)": 1005.045641
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1976,
+    "year-date": "1976-01-01",
+    "Units": 190,
+    "Revenues_in_millions": 245.1,
+    "Revenues_in_millions(Adjusted for inflation)": 1101.25713
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1977,
+    "year-date": "1977-01-01",
+    "Units": 190,
+    "Revenues_in_millions": 245.1,
+    "Revenues_in_millions(Adjusted for inflation)": 1034.018658
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1978,
+    "year-date": "1978-01-01",
+    "Units": 190,
+    "Revenues_in_millions": 260.3,
+    "Revenues_in_millions(Adjusted for inflation)": 1020.66744
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1979,
+    "year-date": "1979-01-01",
+    "Units": 212,
+    "Revenues_in_millions": 353.6,
+    "Revenues_in_millions(Adjusted for inflation)": 1245.183405
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1980,
+    "year-date": "1980-01-01",
+    "Units": 157,
+    "Revenues_in_millions": 250,
+    "Revenues_in_millions(Adjusted for inflation)": 775.6583738
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1981,
+    "year-date": "1981-01-01",
+    "Units": 154.7,
+    "Revenues_in_millions": 256.4,
+    "Revenues_in_millions(Adjusted for inflation)": 721.1271155
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1982,
+    "year-date": "1982-01-01",
+    "Units": 137.2,
+    "Revenues_in_millions": 283,
+    "Revenues_in_millions(Adjusted for inflation)": 749.7505803
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1983,
+    "year-date": "1983-01-01",
+    "Units": 124.8,
+    "Revenues_in_millions": 269.3,
+    "Revenues_in_millions(Adjusted for inflation)": 691.2492982
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1984,
+    "year-date": "1984-01-01",
+    "Units": 131.5,
+    "Revenues_in_millions": 298.7,
+    "Revenues_in_millions(Adjusted for inflation)": 734.9831174
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1985,
+    "year-date": "1985-01-01",
+    "Units": 120.7,
+    "Revenues_in_millions": 281,
+    "Revenues_in_millions(Adjusted for inflation)": 667.6544331
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1986,
+    "year-date": "1986-01-01",
+    "Units": 93.9,
+    "Revenues_in_millions": 228.1,
+    "Revenues_in_millions(Adjusted for inflation)": 532.0744681
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1987,
+    "year-date": "1987-01-01",
+    "Units": 82,
+    "Revenues_in_millions": 203.3,
+    "Revenues_in_millions(Adjusted for inflation)": 457.5270079
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1988,
+    "year-date": "1988-01-01",
+    "Units": 65.6,
+    "Revenues_in_millions": 180.4,
+    "Revenues_in_millions(Adjusted for inflation)": 389.8607168
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1989,
+    "year-date": "1989-01-01",
+    "Units": 36.6,
+    "Revenues_in_millions": 116.4,
+    "Revenues_in_millions(Adjusted for inflation)": 239.9877
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1990,
+    "year-date": "1990-01-01",
+    "Units": 27.6,
+    "Revenues_in_millions": 94.4,
+    "Revenues_in_millions(Adjusted for inflation)": 184.6520337
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1991,
+    "year-date": "1991-01-01",
+    "Units": 22,
+    "Revenues_in_millions": 63.9,
+    "Revenues_in_millions(Adjusted for inflation)": 119.944804
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1992,
+    "year-date": "1992-01-01",
+    "Units": 19.8,
+    "Revenues_in_millions": 66.4,
+    "Revenues_in_millions(Adjusted for inflation)": 120.9951875
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1993,
+    "year-date": "1993-01-01",
+    "Units": 15.1,
+    "Revenues_in_millions": 51.2,
+    "Revenues_in_millions(Adjusted for inflation)": 90.58573287
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1994,
+    "year-date": "1994-01-01",
+    "Units": 11.7,
+    "Revenues_in_millions": 47.2,
+    "Revenues_in_millions(Adjusted for inflation)": 81.42382186
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1995,
+    "year-date": "1995-01-01",
+    "Units": 10.2,
+    "Revenues_in_millions": 46.7,
+    "Revenues_in_millions(Adjusted for inflation)": 78.34108858
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1996,
+    "year-date": "1996-01-01",
+    "Units": 10.1,
+    "Revenues_in_millions": 47.5,
+    "Revenues_in_millions(Adjusted for inflation)": 77.39775335
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1997,
+    "year-date": "1997-01-01",
+    "Units": 7.5,
+    "Revenues_in_millions": 35.6,
+    "Revenues_in_millions(Adjusted for inflation)": 56.70647477
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1998,
+    "year-date": "1998-01-01",
+    "Units": 5.4,
+    "Revenues_in_millions": 25.7,
+    "Revenues_in_millions(Adjusted for inflation)": 40.30910982
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 1999,
+    "year-date": "1999-01-01",
+    "Units": 5.3,
+    "Revenues_in_millions": 27.9,
+    "Revenues_in_millions(Adjusted for inflation)": 42.81410744
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2000,
+    "year-date": "2000-01-01",
+    "Units": 4.8,
+    "Revenues_in_millions": 26.3,
+    "Revenues_in_millions(Adjusted for inflation)": 39.04633624
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2001,
+    "year-date": "2001-01-01",
+    "Units": 5.5,
+    "Revenues_in_millions": 31.4,
+    "Revenues_in_millions(Adjusted for inflation)": 45.32823151
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2002,
+    "year-date": "2002-01-01",
+    "Units": 4.4,
+    "Revenues_in_millions": 24.9,
+    "Revenues_in_millions(Adjusted for inflation)": 35.38554364
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2003,
+    "year-date": "2003-01-01",
+    "Units": 3.8,
+    "Revenues_in_millions": 21.5,
+    "Revenues_in_millions(Adjusted for inflation)": 29.87296467
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2004,
+    "year-date": "2004-01-01",
+    "Units": 3.5,
+    "Revenues_in_millions": 19.9,
+    "Revenues_in_millions(Adjusted for inflation)": 26.93263261
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2005,
+    "year-date": "2005-01-01",
+    "Units": 2.3,
+    "Revenues_in_millions": 13.2,
+    "Revenues_in_millions(Adjusted for inflation)": 17.27942857
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2006,
+    "year-date": "2006-01-01",
+    "Units": 1.5,
+    "Revenues_in_millions": 9.9,
+    "Revenues_in_millions(Adjusted for inflation)": 12.55458482
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2007,
+    "year-date": "2007-01-01",
+    "Units": 0.6,
+    "Revenues_in_millions": 4,
+    "Revenues_in_millions(Adjusted for inflation)": 4.933082489
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2008,
+    "year-date": "2008-01-01",
+    "Units": 0.4,
+    "Revenues_in_millions": 2.9,
+    "Revenues_in_millions(Adjusted for inflation)": 3.44354375
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2009,
+    "year-date": "2009-01-01",
+    "Units": 0.3,
+    "Revenues_in_millions": 2.5,
+    "Revenues_in_millions(Adjusted for inflation)": 2.979171425
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2010,
+    "year-date": "2010-01-01",
+    "Units": 0.3,
+    "Revenues_in_millions": 2.3,
+    "Revenues_in_millions(Adjusted for inflation)": 2.696605918
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2011,
+    "year-date": "2011-01-01",
+    "Units": 0.4,
+    "Revenues_in_millions": 4.6,
+    "Revenues_in_millions(Adjusted for inflation)": 5.228182752
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2012,
+    "year-date": "2012-01-01",
+    "Units": 0.388573687,
+    "Revenues_in_millions": 4.743055893,
+    "Revenues_in_millions(Adjusted for inflation)": 5.281477044
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2013,
+    "year-date": "2013-01-01",
+    "Units": 0.315817054,
+    "Revenues_in_millions": 2.978937179,
+    "Revenues_in_millions(Adjusted for inflation)": 3.269213385
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2014,
+    "year-date": "2014-01-01",
+    "Units": 0.481198278,
+    "Revenues_in_millions": 5.49935429,
+    "Revenues_in_millions(Adjusted for inflation)": 5.938887283
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2015,
+    "year-date": "2015-01-01",
+    "Units": 0.50786991,
+    "Revenues_in_millions": 5.752954082,
+    "Revenues_in_millions(Adjusted for inflation)": 6.205390253
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2016,
+    "year-date": "2016-01-01",
+    "Units": 0.404330651,
+    "Revenues_in_millions": 4.880679689,
+    "Revenues_in_millions(Adjusted for inflation)": 5.198931395
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2017,
+    "year-date": "2017-01-01",
+    "Units": 0.402959365,
+    "Revenues_in_millions": 6.07838535,
+    "Revenues_in_millions(Adjusted for inflation)": 6.33967756
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2018,
+    "year-date": "2018-01-01",
+    "Units": 0.346165002,
+    "Revenues_in_millions": 5.290337079,
+    "Revenues_in_millions(Adjusted for inflation)": 5.386196747
+  },
+  {
+    "Category": "Vinyl",
+    "Format": "Vinyl Single",
+    "Year": 2019,
+    "year-date": "2019-01-01",
+    "Units": 0.336120488,
+    "Revenues_in_millions": 6.795945687,
+    "Revenues_in_millions(Adjusted for inflation)": 6.795945687
+  }
+]
